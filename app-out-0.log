@@ -98,66 +98,69 @@
   "ENGLAND": [
     "England",
     "http://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/eng.png&h=150&w=150"
+  ],
+  "ARGENTINA": [
+    "Argentina",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/arg.png&h=150&w=150"
+  ],
+  "GERMANY": [
+    "Germany",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/ger.png&h=150&w=150"
+  ],
+  "UNITED STATES": [
+    "United States",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/usa.png&h=150&w=150"
+  ],
+  "THAILAND": [
+    "Thailand",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/tha.png&h=150&w=150"
+  ],
+  "CHINA": [
+    "China",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/chn.png&h=150&w=150"
+  ],
+  "CANADA": [
+    "Canada",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/can.png&h=150&w=150"
+  ],
+  "FRANCE": [
+    "France",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/fra.png&h=150&w=150"
+  ],
+  "LIVERPOOL": [
+    "Liverpool",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&h=150&w=150"
+  ],
+  "EVERTON": [
+    "Everton",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/368.png&h=150&w=150"
+  ],
+  "AREMA INDONESIA": [
+    "Arema Indonesia",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
+  ],
+  "PORTUGAL": [
+    "Portugal",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/por.png&h=150&w=150"
+  ],
+  "CHILE": [
+    "Chile",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/chi.png&h=150&w=150"
+  ],
+  "TOTTENHAM HOTSPUR": [
+    "Tottenham Hotspur",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png&h=150&w=150"
+  ],
+  "NEWCASTLE UNITED": [
+    "Newcastle United",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/361.png&h=150&w=150"
+  ],
+  "ATLETICO MADRID": [
+    "Atletico Madrid",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1068.png&h=150&w=150"
+  ],
+  "BURNLEY": [
+    "Burnley",
+    "http://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/379.png&h=150&w=150"
   ]
 }
-webhook is listening on port  1337
-Barcelona
-Argentina
-ARGENTINA
-Germany
-GERMANY
-United States
-USA
-United States
-UNITED STATES
-Thailand
-indonesia
-Myanma
-THAILAND
-China
-France
-Canada
-CHINA
-France
-Canada
-CANADA
-France
-FRANCE
-China
-France
-Liv
-Liverpool
-Chelsea
-Liverpool
-LIVERPOOL
-Falcons
-Ronaldo
-waiting...
-Tottenham Hotspur
-replied
-Tottenham Hotspur
-Everton
-EVERTON
-Liv
-Vietnam
-waiting...
-Indonesia
-INDONESIA
-Chile
-Portugal
-PORTUGAL
-Chile
-CHILE
-Tottenham Hotspur
-TOTTENHAM HOTSPUR
-Newcastle United
-NEWCASTLE UNITED
-Athletical
-Atletico Madrid
-[ 'Atletico Madrid', 'Real Madrid' ]
-Manchester United
-Atletico Madrid
-ATLETICO MADRID
-Burnley
-BURNLEY
-Crystal Palace
